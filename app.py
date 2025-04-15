@@ -160,8 +160,8 @@ else:
             st.markdown(
                 """
                 <div class="final-message">
-                    <p>Acesse aqui mais 30 orações para atrair riqueza e prosperidade ➡️ 
-                    <a href="https://lastlink.com/p/C5D1D8C18/checkout-payment/" target="_blank">Clique Aqui</a></p>
+                    <p>Acesse aqui as 40 Orações mais Poderosas de Arcanjo Miguel, rezadas por FREI GILSON! ➡️ 
+                    <a href="https://lastlink.com/p/CEB3A8A56/checkout-payment/" target="_blank">Clique Aqui</a></p>
                 </div>
                 """,
                 unsafe_allow_html=True
